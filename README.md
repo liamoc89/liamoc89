@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Liam.
-- 👀 I’m interested in all sorts really, I have an inquisitive mind so I love learning new things. I like to keep fit and I have a new found love of coding.
-- 🌱 I’m currently learning my first programming language, Python, and I'm loving every bit of it!
-- 💞️ I’m new here so I'm not really looking to collaborate on anything in particular just now. My ultimate goal is to become a software developer so ideally, I would like to learn more about the github community, get to know 
-     some new people here and find out about their route into their career as a software developer and hopefully learn from them in the process.
-- 📫 How to reach me - email me at liamj.oc@gmail.com
+- 👀 I’m interested in all sorts really, I have an inquisitive mind so I love learning new things. I like to keep fit and love the feeling of solving a problem when I'm working on a challenging piece of code.
+- 🌱 I've learnt a bit of Python and I'm currently learning Java - I'm keen to learn more about coding best practices and testing approaches like TDD.
+- 💞️ I'm keen to learn so happy to collaborate on anything that might help me with my goal of becoming a software developer. 
+- 📫 How to reach me - email me at ljcode21@gmail.com
 
 <!---
 liamoc89/liamoc89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
